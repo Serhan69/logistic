@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="blue_primary">#1976D2</color>
+    <color name="blue_dark">#0D47A1</color>
+    <color name="blue_light">#E3F2FD</color>
+    <color name="background_gray">#F8F9FA</color>
+    <color name="card_border">#E0E0E0</color>
+
+    <!-- Status Badge Colors -->
+    <color name="badge_delivered_bg">#E8F5E9</color>
+    <color name="badge_delivered_text">#2E7D32</color>
+
+    <color name="badge_in_transit_bg">#FFF8E1</color>
+    <color name="badge_in_transit_text">#E65100</color>
+
+    <color name="badge_pending_bg">#F5F5F5</color>
+    <color name="badge_pending_text">#424242</color>
+
+    <!-- Text and Error Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="error_bg">#FFEBEE</color>
+</resources>

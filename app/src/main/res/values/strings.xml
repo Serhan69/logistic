@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LogisticsTrackerApp</string>
+    <string name="app_header_title">Logistics Tracker</string>
+    <string name="app_header_subtitle">Lacak posisi paket &amp; kiriman barang</string>
+
+    <string name="label_track_section">Lacak Resi Paket</string>
+    <string name="hint_tracking_number">Masukkan No Resi (cth: EXP-8801)</string>
+    <string name="button_track">Lacak</string>
+
+    <string name="label_result_title">Detail Paket</string>
+    <string name="label_courier">Kurir / Layanan</string>
+    <string name="label_location">Lokasi Terakhir</string>
+    <string name="label_recipient">Penerima</string>
+    <string name="label_eta">Estimasi Tiba</string>
+
+    <string name="label_search_section">Pencarian Paket</string>
+    <string name="hint_search_keyword">Masukkan kata kunci pencarian</string>
+    <string name="button_search">Cari</string>
+    <string name="label_search_result_count_default">Hasil pencarian akan tampil di bawah ini</string>
+    <string name="label_search_result_count_format">%1$d hasil ditemukan</string>
+    <string name="label_item_courier_format">Kurir: %1$s</string>
+    <string name="label_item_recipient_format">Penerima: %1$s</string>
+    <string name="label_item_location_format">Lokasi: %1$s</string>
+
+    <string name="toast_empty_resi">Masukkan nomor resi, contoh: EXP-8801</string>
+    <string name="toast_empty_keyword">Masukkan kata kunci pencarian</string>
+    <string name="error_offline">Perangkat Offline - Periksa Sambungan Jaringan Anda</string>
+    <string name="error_404_format">Nomor resi [%1$s] tidak ditemukan pada database server (HTTP 404)</string>
+    <string name="error_http_other_format">Terjadi kesalahan server (HTTP %1$d)</string>
+    <string name="error_network_failure">Gagal terhubung ke server. Periksa koneksi internet Anda.</string>
+</resources>
